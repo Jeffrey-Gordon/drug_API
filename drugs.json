@@ -9,7 +9,7 @@
         "Contraindications": "Hypersensitivity to paracetamol, severe liver disease",
         "Indications": "Pain relief, fever reduction",
         "NDC": "12345-678",
-        "Image": "./img/1_Panadol.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/1.jpg"
     },
     {
         "ID": 2,
@@ -21,7 +21,7 @@
         "Contraindications": "Liver disease, pregnancy, breastfeeding",
         "Indications": "Lowering cholesterol levels",
         "NDC": "54321-987",
-        "Image": "./img/2_Lipitor.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/2.jpg"
     },
     {
         "ID": 3,
@@ -33,7 +33,7 @@
         "Contraindications": "History of stomach bleeding, asthma, allergic to NSAIDs",
         "Indications": "Pain relief, anti-inflammatory",
         "NDC": "67890-123",
-        "Image": "./img/3_Advil.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/3.jpg"
     },
     {
         "ID": 4,
@@ -45,7 +45,7 @@
         "Contraindications": "Severe kidney disease, allergic reaction to cetirizine",
         "Indications": "Allergy relief",
         "NDC": "13579-246",
-        "Image": "./img/4_Zyrtec.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/4.jpg"
     },
     {
         "ID": 5,
@@ -57,7 +57,7 @@
         "Contraindications": "Allergic to esomeprazole, severe liver disease",
         "Indications": "Acid reflux, heartburn treatment",
         "NDC": "98765-432",
-        "Image": "./img/5_Nexium.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/5.jpg"
     },
     {
         "ID": 6,
@@ -69,7 +69,7 @@
         "Contraindications": "Liver disease, alcoholism",
         "Indications": "Pain relief, fever reduction",
         "NDC": "24680-135",
-        "Image": "./img/6_Tylenol.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/6.jpg"
     },
     {
         "ID": 7,
@@ -81,7 +81,7 @@
         "Contraindications": "Taking MAO inhibitors, history of seizures",
         "Indications": "Depression, anxiety disorder",
         "NDC": "56789-012",
-        "Image": "./img/7_Prozac.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/7.jpg"
     },
     {
         "ID": 8,
@@ -93,7 +93,7 @@
         "Contraindications": "Nitrate medications, severe heart or liver problems",
         "Indications": "Erectile dysfunction",
         "NDC": "01234-567",
-        "Image": "./img/8_Viagra.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/8.jpg"
     },
     {
         "ID": 9,
@@ -105,7 +105,7 @@
         "Contraindications": "Severe kidney disease, allergic reaction to loratadine",
         "Indications": "Allergy relief",
         "NDC": "78901-234",
-        "Image": "./img/9_Claritin.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/9.jpg"
     },
     {
         "ID": 10,
@@ -117,7 +117,7 @@
         "Contraindications": "Glaucoma, anxiety, Tourette's syndrome",
         "Indications": "ADHD treatment",
         "NDC": "43210-987",
-        "Image": "./img/10_Ritalin.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/10.jpg"
     },
     {
         "ID": 11,
@@ -129,7 +129,7 @@
         "Contraindications": "Liver disease, pregnancy, breastfeeding",
         "Indications": "Lowering cholesterol levels",
         "NDC": "65432-109",
-        "Image": "./img/11_Crestor.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/11.jpg"
     },
     {
         "ID": 12,
@@ -141,7 +141,7 @@
         "Contraindications": "History of bleeding disorders, peptic ulcers",
         "Indications": "Pain relief, reducing inflammation",
         "NDC": "21098-765",
-        "Image": "./img/12_Aspirin.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/12.jpg"
     },
     {
         "ID": 13,
@@ -153,7 +153,7 @@
         "Contraindications": "Allergic to albuterol, heart conditions",
         "Indications": "Asthma, bronchospasm relief",
         "NDC": "34567-890",
-        "Image": "./img/13_Albuterol.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/13.jpg"
     },
     {
         "ID": 14,
@@ -165,7 +165,7 @@
         "Contraindications": "Severe kidney disease, lactic acidosis",
         "Indications": "Type 2 diabetes treatment",
         "NDC": "87654-321",
-        "Image": "./img/14_Metformin.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/14.jpg"
     },
     {
         "ID": 15,
@@ -177,7 +177,7 @@
         "Contraindications": "Fungal infections, live vaccines",
         "Indications": "Inflammation, immune system suppression",
         "NDC": "45678-901",
-        "Image": "./img/15_Prednisone.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/15.jpg"
     },
     {
         "ID": 16,
@@ -189,7 +189,7 @@
         "Contraindications": "Glaucoma, enlarged prostate",
         "Indications": "Allergy relief, motion sickness",
         "NDC": "78912-345",
-        "Image": "./img/16_Benadryl.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/16.jpg"
     },
     {
         "ID": 17,
@@ -201,7 +201,7 @@
         "Contraindications": "Asthma, heart conditions",
         "Indications": "High blood pressure, anxiety",
         "NDC": "23456-789",
-        "Image": "./img/17_Propranolol.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/17.jpg"
     },
     {
         "ID": 18,
@@ -213,7 +213,7 @@
         "Contraindications": "Severe lung disease, substance abuse",
         "Indications": "Anxiety, panic disorders",
         "NDC": "90123-456",
-        "Image": "./img/18_Xanax.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/18.jpg"
     },
     {
         "ID": 19,
@@ -225,7 +225,7 @@
         "Contraindications": "MAO inhibitors, recent heart attack",
         "Indications": "Depression, anxiety disorders",
         "NDC": "34567-890",
-        "Image": "./img/19_Celexa.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/19.jpg"
     },
     {
         "ID": 20,
@@ -237,6 +237,6 @@
         "Contraindications": "Liver disease, allergic to omeprazole",
         "Indications": "Gastric acid reduction, ulcers treatment",
         "NDC": "67890-123",
-        "Image": "./img/20_Omeprazole.jpg"
+        "Image": "https://raw.githubusercontent.com/Jeffrey-Gordon/drug_API/main/img/20.jpg"
     }
 ]
