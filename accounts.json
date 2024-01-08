@@ -1,5 +1,23 @@
 [
-  { "username": "user1", "password": "pass1" },
-  { "username": "user2", "password": "pass2" },
-  { "username": "user3", "password": "pass3" }
+    {
+        "email": "john_smith@example.com",
+        "username": "John Smith",
+        "password": "securePassword123"
+    },
+    {
+        "email": "jane_doe@example.com",
+        "username": "Jane Doe",
+        "password": "strongPass!987"
+    },
+    {
+        "email": "michael_jones@example.com",
+        "username": "Michael Jones",
+        "password": "safeAndSound456"
+    },
+    {
+        "email": "emily_wilson@example.com",
+        "username": "Emily Wilson",
+        "password": "password1234!"
+    }
+    // 可以根据需要添加更多的条目
 ]
